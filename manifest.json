@@ -1,0 +1,2187 @@
+{
+  "seer": {
+    "model": "models/weapons/a15/v_seerheirloom.mdl",
+    "files": [
+      {
+        "path": "materials/models/a15/seer_heirloom.vmt",
+        "size": 295,
+        "crc": 3366248194,
+        "blocks": [
+          {
+            "size": 295,
+            "line": 2
+          }
+        ]
+      },
+      {
+        "path": "materials/models/a15/seer_heirloom_emissiveTexture.vtf",
+        "size": 5592640,
+        "crc": 3950170637,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 3
+          },
+          {
+            "size": 65536,
+            "line": 4
+          },
+          {
+            "size": 65536,
+            "line": 5
+          },
+          {
+            "size": 65536,
+            "line": 6
+          },
+          {
+            "size": 65536,
+            "line": 7
+          },
+          {
+            "size": 65536,
+            "line": 8
+          },
+          {
+            "size": 65536,
+            "line": 9
+          },
+          {
+            "size": 65536,
+            "line": 10
+          },
+          {
+            "size": 65536,
+            "line": 11
+          },
+          {
+            "size": 65536,
+            "line": 12
+          },
+          {
+            "size": 65536,
+            "line": 13
+          },
+          {
+            "size": 65536,
+            "line": 14
+          },
+          {
+            "size": 65536,
+            "line": 15
+          },
+          {
+            "size": 65536,
+            "line": 16
+          },
+          {
+            "size": 65536,
+            "line": 17
+          },
+          {
+            "size": 65536,
+            "line": 18
+          },
+          {
+            "size": 65536,
+            "line": 19
+          },
+          {
+            "size": 65536,
+            "line": 20
+          },
+          {
+            "size": 65536,
+            "line": 21
+          },
+          {
+            "size": 65536,
+            "line": 22
+          },
+          {
+            "size": 65536,
+            "line": 23
+          },
+          {
+            "size": 65536,
+            "line": 24
+          },
+          {
+            "size": 65536,
+            "line": 25
+          },
+          {
+            "size": 65536,
+            "line": 26
+          },
+          {
+            "size": 65536,
+            "line": 27
+          },
+          {
+            "size": 65536,
+            "line": 28
+          },
+          {
+            "size": 65536,
+            "line": 29
+          },
+          {
+            "size": 65536,
+            "line": 30
+          },
+          {
+            "size": 65536,
+            "line": 31
+          },
+          {
+            "size": 65536,
+            "line": 32
+          },
+          {
+            "size": 65536,
+            "line": 33
+          },
+          {
+            "size": 65536,
+            "line": 34
+          },
+          {
+            "size": 65536,
+            "line": 35
+          },
+          {
+            "size": 65536,
+            "line": 36
+          },
+          {
+            "size": 65536,
+            "line": 37
+          },
+          {
+            "size": 65536,
+            "line": 38
+          },
+          {
+            "size": 65536,
+            "line": 39
+          },
+          {
+            "size": 65536,
+            "line": 40
+          },
+          {
+            "size": 65536,
+            "line": 41
+          },
+          {
+            "size": 65536,
+            "line": 42
+          },
+          {
+            "size": 65536,
+            "line": 43
+          },
+          {
+            "size": 65536,
+            "line": 44
+          },
+          {
+            "size": 65536,
+            "line": 45
+          },
+          {
+            "size": 65536,
+            "line": 46
+          },
+          {
+            "size": 65536,
+            "line": 47
+          },
+          {
+            "size": 65536,
+            "line": 48
+          },
+          {
+            "size": 65536,
+            "line": 49
+          },
+          {
+            "size": 65536,
+            "line": 50
+          },
+          {
+            "size": 65536,
+            "line": 51
+          },
+          {
+            "size": 65536,
+            "line": 52
+          },
+          {
+            "size": 65536,
+            "line": 53
+          },
+          {
+            "size": 65536,
+            "line": 54
+          },
+          {
+            "size": 65536,
+            "line": 55
+          },
+          {
+            "size": 65536,
+            "line": 56
+          },
+          {
+            "size": 65536,
+            "line": 57
+          },
+          {
+            "size": 65536,
+            "line": 58
+          },
+          {
+            "size": 65536,
+            "line": 59
+          },
+          {
+            "size": 65536,
+            "line": 60
+          },
+          {
+            "size": 65536,
+            "line": 61
+          },
+          {
+            "size": 65536,
+            "line": 62
+          },
+          {
+            "size": 65536,
+            "line": 63
+          },
+          {
+            "size": 65536,
+            "line": 64
+          },
+          {
+            "size": 65536,
+            "line": 65
+          },
+          {
+            "size": 65536,
+            "line": 66
+          },
+          {
+            "size": 65536,
+            "line": 67
+          },
+          {
+            "size": 65536,
+            "line": 68
+          },
+          {
+            "size": 65536,
+            "line": 69
+          },
+          {
+            "size": 65536,
+            "line": 70
+          },
+          {
+            "size": 65536,
+            "line": 71
+          },
+          {
+            "size": 65536,
+            "line": 72
+          },
+          {
+            "size": 65536,
+            "line": 73
+          },
+          {
+            "size": 65536,
+            "line": 74
+          },
+          {
+            "size": 65536,
+            "line": 75
+          },
+          {
+            "size": 65536,
+            "line": 76
+          },
+          {
+            "size": 65536,
+            "line": 77
+          },
+          {
+            "size": 65536,
+            "line": 78
+          },
+          {
+            "size": 65536,
+            "line": 79
+          },
+          {
+            "size": 65536,
+            "line": 80
+          },
+          {
+            "size": 65536,
+            "line": 81
+          },
+          {
+            "size": 65536,
+            "line": 82
+          },
+          {
+            "size": 65536,
+            "line": 83
+          },
+          {
+            "size": 65536,
+            "line": 84
+          },
+          {
+            "size": 65536,
+            "line": 85
+          },
+          {
+            "size": 65536,
+            "line": 86
+          },
+          {
+            "size": 65536,
+            "line": 87
+          },
+          {
+            "size": 22080,
+            "line": 88
+          }
+        ]
+      },
+      {
+        "path": "materials/models/a15/seer_heirloom_normalTexture.vtf",
+        "size": 5592640,
+        "crc": 1667405632,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 89
+          },
+          {
+            "size": 65536,
+            "line": 90
+          },
+          {
+            "size": 65536,
+            "line": 91
+          },
+          {
+            "size": 65536,
+            "line": 92
+          },
+          {
+            "size": 65536,
+            "line": 93
+          },
+          {
+            "size": 65536,
+            "line": 94
+          },
+          {
+            "size": 65536,
+            "line": 95
+          },
+          {
+            "size": 65536,
+            "line": 96
+          },
+          {
+            "size": 65536,
+            "line": 97
+          },
+          {
+            "size": 65536,
+            "line": 98
+          },
+          {
+            "size": 65536,
+            "line": 99
+          },
+          {
+            "size": 65536,
+            "line": 100
+          },
+          {
+            "size": 65536,
+            "line": 101
+          },
+          {
+            "size": 65536,
+            "line": 102
+          },
+          {
+            "size": 65536,
+            "line": 103
+          },
+          {
+            "size": 65536,
+            "line": 104
+          },
+          {
+            "size": 65536,
+            "line": 105
+          },
+          {
+            "size": 65536,
+            "line": 106
+          },
+          {
+            "size": 65536,
+            "line": 107
+          },
+          {
+            "size": 65536,
+            "line": 108
+          },
+          {
+            "size": 65536,
+            "line": 109
+          },
+          {
+            "size": 65536,
+            "line": 110
+          },
+          {
+            "size": 65536,
+            "line": 111
+          },
+          {
+            "size": 65536,
+            "line": 112
+          },
+          {
+            "size": 65536,
+            "line": 113
+          },
+          {
+            "size": 65536,
+            "line": 114
+          },
+          {
+            "size": 65536,
+            "line": 115
+          },
+          {
+            "size": 65536,
+            "line": 116
+          },
+          {
+            "size": 65536,
+            "line": 117
+          },
+          {
+            "size": 65536,
+            "line": 118
+          },
+          {
+            "size": 65536,
+            "line": 119
+          },
+          {
+            "size": 65536,
+            "line": 120
+          },
+          {
+            "size": 65536,
+            "line": 121
+          },
+          {
+            "size": 65536,
+            "line": 122
+          },
+          {
+            "size": 65536,
+            "line": 123
+          },
+          {
+            "size": 65536,
+            "line": 124
+          },
+          {
+            "size": 65536,
+            "line": 125
+          },
+          {
+            "size": 65536,
+            "line": 126
+          },
+          {
+            "size": 65536,
+            "line": 127
+          },
+          {
+            "size": 65536,
+            "line": 128
+          },
+          {
+            "size": 65536,
+            "line": 129
+          },
+          {
+            "size": 65536,
+            "line": 130
+          },
+          {
+            "size": 65536,
+            "line": 131
+          },
+          {
+            "size": 65536,
+            "line": 132
+          },
+          {
+            "size": 65536,
+            "line": 133
+          },
+          {
+            "size": 65536,
+            "line": 134
+          },
+          {
+            "size": 65536,
+            "line": 135
+          },
+          {
+            "size": 65536,
+            "line": 136
+          },
+          {
+            "size": 65536,
+            "line": 137
+          },
+          {
+            "size": 65536,
+            "line": 138
+          },
+          {
+            "size": 65536,
+            "line": 139
+          },
+          {
+            "size": 65536,
+            "line": 140
+          },
+          {
+            "size": 65536,
+            "line": 141
+          },
+          {
+            "size": 65536,
+            "line": 142
+          },
+          {
+            "size": 65536,
+            "line": 143
+          },
+          {
+            "size": 65536,
+            "line": 144
+          },
+          {
+            "size": 65536,
+            "line": 145
+          },
+          {
+            "size": 65536,
+            "line": 146
+          },
+          {
+            "size": 65536,
+            "line": 147
+          },
+          {
+            "size": 65536,
+            "line": 148
+          },
+          {
+            "size": 65536,
+            "line": 149
+          },
+          {
+            "size": 65536,
+            "line": 150
+          },
+          {
+            "size": 65536,
+            "line": 151
+          },
+          {
+            "size": 65536,
+            "line": 152
+          },
+          {
+            "size": 65536,
+            "line": 153
+          },
+          {
+            "size": 65536,
+            "line": 154
+          },
+          {
+            "size": 65536,
+            "line": 155
+          },
+          {
+            "size": 65536,
+            "line": 156
+          },
+          {
+            "size": 65536,
+            "line": 157
+          },
+          {
+            "size": 65536,
+            "line": 158
+          },
+          {
+            "size": 65536,
+            "line": 159
+          },
+          {
+            "size": 65536,
+            "line": 160
+          },
+          {
+            "size": 65536,
+            "line": 161
+          },
+          {
+            "size": 65536,
+            "line": 162
+          },
+          {
+            "size": 65536,
+            "line": 163
+          },
+          {
+            "size": 65536,
+            "line": 164
+          },
+          {
+            "size": 65536,
+            "line": 165
+          },
+          {
+            "size": 65536,
+            "line": 166
+          },
+          {
+            "size": 65536,
+            "line": 167
+          },
+          {
+            "size": 65536,
+            "line": 168
+          },
+          {
+            "size": 65536,
+            "line": 169
+          },
+          {
+            "size": 65536,
+            "line": 170
+          },
+          {
+            "size": 65536,
+            "line": 171
+          },
+          {
+            "size": 65536,
+            "line": 172
+          },
+          {
+            "size": 65536,
+            "line": 173
+          },
+          {
+            "size": 22080,
+            "line": 174
+          }
+        ]
+      },
+      {
+        "path": "materials/models/a15/seer_heirloom_specTexture.vtf",
+        "size": 5592640,
+        "crc": 384406046,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 175
+          },
+          {
+            "size": 65536,
+            "line": 176
+          },
+          {
+            "size": 65536,
+            "line": 177
+          },
+          {
+            "size": 65536,
+            "line": 178
+          },
+          {
+            "size": 65536,
+            "line": 179
+          },
+          {
+            "size": 65536,
+            "line": 180
+          },
+          {
+            "size": 65536,
+            "line": 181
+          },
+          {
+            "size": 65536,
+            "line": 182
+          },
+          {
+            "size": 65536,
+            "line": 183
+          },
+          {
+            "size": 65536,
+            "line": 184
+          },
+          {
+            "size": 65536,
+            "line": 185
+          },
+          {
+            "size": 65536,
+            "line": 186
+          },
+          {
+            "size": 65536,
+            "line": 187
+          },
+          {
+            "size": 65536,
+            "line": 188
+          },
+          {
+            "size": 65536,
+            "line": 189
+          },
+          {
+            "size": 65536,
+            "line": 190
+          },
+          {
+            "size": 65536,
+            "line": 191
+          },
+          {
+            "size": 65536,
+            "line": 192
+          },
+          {
+            "size": 65536,
+            "line": 193
+          },
+          {
+            "size": 65536,
+            "line": 194
+          },
+          {
+            "size": 65536,
+            "line": 195
+          },
+          {
+            "size": 65536,
+            "line": 196
+          },
+          {
+            "size": 65536,
+            "line": 197
+          },
+          {
+            "size": 65536,
+            "line": 198
+          },
+          {
+            "size": 65536,
+            "line": 199
+          },
+          {
+            "size": 65536,
+            "line": 200
+          },
+          {
+            "size": 65536,
+            "line": 201
+          },
+          {
+            "size": 65536,
+            "line": 202
+          },
+          {
+            "size": 65536,
+            "line": 203
+          },
+          {
+            "size": 65536,
+            "line": 204
+          },
+          {
+            "size": 65536,
+            "line": 205
+          },
+          {
+            "size": 65536,
+            "line": 206
+          },
+          {
+            "size": 65536,
+            "line": 207
+          },
+          {
+            "size": 65536,
+            "line": 208
+          },
+          {
+            "size": 65536,
+            "line": 209
+          },
+          {
+            "size": 65536,
+            "line": 210
+          },
+          {
+            "size": 65536,
+            "line": 211
+          },
+          {
+            "size": 65536,
+            "line": 212
+          },
+          {
+            "size": 65536,
+            "line": 213
+          },
+          {
+            "size": 65536,
+            "line": 214
+          },
+          {
+            "size": 65536,
+            "line": 215
+          },
+          {
+            "size": 65536,
+            "line": 216
+          },
+          {
+            "size": 65536,
+            "line": 217
+          },
+          {
+            "size": 65536,
+            "line": 218
+          },
+          {
+            "size": 65536,
+            "line": 219
+          },
+          {
+            "size": 65536,
+            "line": 220
+          },
+          {
+            "size": 65536,
+            "line": 221
+          },
+          {
+            "size": 65536,
+            "line": 222
+          },
+          {
+            "size": 65536,
+            "line": 223
+          },
+          {
+            "size": 65536,
+            "line": 224
+          },
+          {
+            "size": 65536,
+            "line": 225
+          },
+          {
+            "size": 65536,
+            "line": 226
+          },
+          {
+            "size": 65536,
+            "line": 227
+          },
+          {
+            "size": 65536,
+            "line": 228
+          },
+          {
+            "size": 65536,
+            "line": 229
+          },
+          {
+            "size": 65536,
+            "line": 230
+          },
+          {
+            "size": 65536,
+            "line": 231
+          },
+          {
+            "size": 65536,
+            "line": 232
+          },
+          {
+            "size": 65536,
+            "line": 233
+          },
+          {
+            "size": 65536,
+            "line": 234
+          },
+          {
+            "size": 65536,
+            "line": 235
+          },
+          {
+            "size": 65536,
+            "line": 236
+          },
+          {
+            "size": 65536,
+            "line": 237
+          },
+          {
+            "size": 65536,
+            "line": 238
+          },
+          {
+            "size": 65536,
+            "line": 239
+          },
+          {
+            "size": 65536,
+            "line": 240
+          },
+          {
+            "size": 65536,
+            "line": 241
+          },
+          {
+            "size": 65536,
+            "line": 242
+          },
+          {
+            "size": 65536,
+            "line": 243
+          },
+          {
+            "size": 65536,
+            "line": 244
+          },
+          {
+            "size": 65536,
+            "line": 245
+          },
+          {
+            "size": 65536,
+            "line": 246
+          },
+          {
+            "size": 65536,
+            "line": 247
+          },
+          {
+            "size": 65536,
+            "line": 248
+          },
+          {
+            "size": 65536,
+            "line": 249
+          },
+          {
+            "size": 65536,
+            "line": 250
+          },
+          {
+            "size": 65536,
+            "line": 251
+          },
+          {
+            "size": 65536,
+            "line": 252
+          },
+          {
+            "size": 65536,
+            "line": 253
+          },
+          {
+            "size": 65536,
+            "line": 254
+          },
+          {
+            "size": 65536,
+            "line": 255
+          },
+          {
+            "size": 65536,
+            "line": 256
+          },
+          {
+            "size": 65536,
+            "line": 257
+          },
+          {
+            "size": 65536,
+            "line": 258
+          },
+          {
+            "size": 65536,
+            "line": 259
+          },
+          {
+            "size": 22080,
+            "line": 260
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/seers/Default_2ch_f000.wav",
+        "size": 409292,
+        "crc": 3756042553,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 261
+          },
+          {
+            "size": 65536,
+            "line": 262
+          },
+          {
+            "size": 65536,
+            "line": 263
+          },
+          {
+            "size": 65536,
+            "line": 264
+          },
+          {
+            "size": 65536,
+            "line": 265
+          },
+          {
+            "size": 65536,
+            "line": 266
+          },
+          {
+            "size": 16076,
+            "line": 267
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/seers/Default_2ch_f070.wav",
+        "size": 465740,
+        "crc": 2924019695,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 268
+          },
+          {
+            "size": 65536,
+            "line": 269
+          },
+          {
+            "size": 65536,
+            "line": 270
+          },
+          {
+            "size": 65536,
+            "line": 271
+          },
+          {
+            "size": 65536,
+            "line": 272
+          },
+          {
+            "size": 65536,
+            "line": 273
+          },
+          {
+            "size": 65536,
+            "line": 274
+          },
+          {
+            "size": 6988,
+            "line": 275
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/seers/Default_2ch_f150.wav",
+        "size": 1375964,
+        "crc": 4101673763,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 276
+          },
+          {
+            "size": 65536,
+            "line": 277
+          },
+          {
+            "size": 65536,
+            "line": 278
+          },
+          {
+            "size": 65536,
+            "line": 279
+          },
+          {
+            "size": 65536,
+            "line": 280
+          },
+          {
+            "size": 65536,
+            "line": 281
+          },
+          {
+            "size": 65536,
+            "line": 282
+          },
+          {
+            "size": 65536,
+            "line": 283
+          },
+          {
+            "size": 65536,
+            "line": 284
+          },
+          {
+            "size": 65536,
+            "line": 285
+          },
+          {
+            "size": 65536,
+            "line": 286
+          },
+          {
+            "size": 65536,
+            "line": 287
+          },
+          {
+            "size": 65536,
+            "line": 288
+          },
+          {
+            "size": 65536,
+            "line": 289
+          },
+          {
+            "size": 65536,
+            "line": 290
+          },
+          {
+            "size": 65536,
+            "line": 291
+          },
+          {
+            "size": 65536,
+            "line": 292
+          },
+          {
+            "size": 65536,
+            "line": 293
+          },
+          {
+            "size": 65536,
+            "line": 294
+          },
+          {
+            "size": 65536,
+            "line": 295
+          },
+          {
+            "size": 65244,
+            "line": 296
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/seers/Default_2ch_f385.wav",
+        "size": 261116,
+        "crc": 1587772274,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 297
+          },
+          {
+            "size": 65536,
+            "line": 298
+          },
+          {
+            "size": 65536,
+            "line": 299
+          },
+          {
+            "size": 64508,
+            "line": 300
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/seers/Default_Victim_2ch_02.wav",
+        "size": 169388,
+        "crc": 4195676760,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 301
+          },
+          {
+            "size": 65536,
+            "line": 302
+          },
+          {
+            "size": 38316,
+            "line": 303
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/seers/Default_Victim_2ch_04.wav",
+        "size": 169388,
+        "crc": 2746592599,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 304
+          },
+          {
+            "size": 65536,
+            "line": 305
+          },
+          {
+            "size": 38316,
+            "line": 306
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/seers/Default_Victim_3p_2ch_01.wav",
+        "size": 127052,
+        "crc": 1273927565,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 307
+          },
+          {
+            "size": 61516,
+            "line": 308
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/seers/Default_Victim_3p_2ch_04.wav",
+        "size": 127052,
+        "crc": 3671679731,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 309
+          },
+          {
+            "size": 61516,
+            "line": 310
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/seers/Draw_Doublespin_2ch.wav",
+        "size": 331676,
+        "crc": 380171321,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 311
+          },
+          {
+            "size": 65536,
+            "line": 312
+          },
+          {
+            "size": 65536,
+            "line": 313
+          },
+          {
+            "size": 65536,
+            "line": 314
+          },
+          {
+            "size": 65536,
+            "line": 315
+          },
+          {
+            "size": 3996,
+            "line": 316
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/seers/ElectricityLayer_2ch_02.wav",
+        "size": 169388,
+        "crc": 3929809128,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 317
+          },
+          {
+            "size": 65536,
+            "line": 318
+          },
+          {
+            "size": 38316,
+            "line": 319
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/seers/ElectricityLayer_2ch_07.wav",
+        "size": 162332,
+        "crc": 2441998641,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 320
+          },
+          {
+            "size": 65536,
+            "line": 321
+          },
+          {
+            "size": 31260,
+            "line": 322
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/seers/ElectricityLayer_2ch_10.wav",
+        "size": 169388,
+        "crc": 2370731757,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 323
+          },
+          {
+            "size": 65536,
+            "line": 324
+          },
+          {
+            "size": 38316,
+            "line": 325
+          }
+        ]
+      },
+      {
+        "path": "models/weapons/a15/v_seerheirloom.ani",
+        "size": 245656,
+        "crc": 587587830,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 326
+          },
+          {
+            "size": 65536,
+            "line": 327
+          },
+          {
+            "size": 65536,
+            "line": 328
+          },
+          {
+            "size": 49048,
+            "line": 329
+          }
+        ]
+      },
+      {
+        "path": "models/weapons/a15/v_seerheirloom.dx90.vtx",
+        "size": 185902,
+        "crc": 3566642417,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 330
+          },
+          {
+            "size": 65536,
+            "line": 331
+          },
+          {
+            "size": 54830,
+            "line": 332
+          }
+        ]
+      },
+      {
+        "path": "models/weapons/a15/v_seerheirloom.mdl",
+        "size": 144484,
+        "crc": 2951314072,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 333
+          },
+          {
+            "size": 65536,
+            "line": 334
+          },
+          {
+            "size": 13412,
+            "line": 335
+          }
+        ]
+      },
+      {
+        "path": "models/weapons/a15/v_seerheirloom.vvd",
+        "size": 762944,
+        "crc": 399355670,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 336
+          },
+          {
+            "size": 65536,
+            "line": 337
+          },
+          {
+            "size": 65536,
+            "line": 338
+          },
+          {
+            "size": 65536,
+            "line": 339
+          },
+          {
+            "size": 65536,
+            "line": 340
+          },
+          {
+            "size": 65536,
+            "line": 341
+          },
+          {
+            "size": 65536,
+            "line": 342
+          },
+          {
+            "size": 65536,
+            "line": 343
+          },
+          {
+            "size": 65536,
+            "line": 344
+          },
+          {
+            "size": 65536,
+            "line": 345
+          },
+          {
+            "size": 65536,
+            "line": 346
+          },
+          {
+            "size": 42048,
+            "line": 347
+          }
+        ]
+      }
+    ],
+    "pack_size": 10905195
+  },
+  "octane": {
+    "model": "models/weapons/a15/v_octaneheirloom.mdl",
+    "files": [
+      {
+        "path": "sound/weapons/custom_weapon/a15/octane/drawbut.wav",
+        "size": 127052,
+        "crc": 3321147738,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 2
+          },
+          {
+            "size": 61516,
+            "line": 3
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/octane/inspect.wav",
+        "size": 575936,
+        "crc": 4101054139,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 4
+          },
+          {
+            "size": 65536,
+            "line": 5
+          },
+          {
+            "size": 65536,
+            "line": 6
+          },
+          {
+            "size": 65536,
+            "line": 7
+          },
+          {
+            "size": 65536,
+            "line": 8
+          },
+          {
+            "size": 65536,
+            "line": 9
+          },
+          {
+            "size": 65536,
+            "line": 10
+          },
+          {
+            "size": 65536,
+            "line": 11
+          },
+          {
+            "size": 51648,
+            "line": 12
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/octane/Inspect_V1_2ch_p5.wav",
+        "size": 956084,
+        "crc": 4128225266,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 13
+          },
+          {
+            "size": 65536,
+            "line": 14
+          },
+          {
+            "size": 65536,
+            "line": 15
+          },
+          {
+            "size": 65536,
+            "line": 16
+          },
+          {
+            "size": 65536,
+            "line": 17
+          },
+          {
+            "size": 65536,
+            "line": 18
+          },
+          {
+            "size": 65536,
+            "line": 19
+          },
+          {
+            "size": 65536,
+            "line": 20
+          },
+          {
+            "size": 65536,
+            "line": 21
+          },
+          {
+            "size": 65536,
+            "line": 22
+          },
+          {
+            "size": 65536,
+            "line": 23
+          },
+          {
+            "size": 65536,
+            "line": 24
+          },
+          {
+            "size": 65536,
+            "line": 25
+          },
+          {
+            "size": 65536,
+            "line": 26
+          },
+          {
+            "size": 38580,
+            "line": 27
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/octane/Melee_Jump_V2_2ch_01.wav",
+        "size": 148220,
+        "crc": 2900191667,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 28
+          },
+          {
+            "size": 65536,
+            "line": 29
+          },
+          {
+            "size": 17148,
+            "line": 30
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/octane/Melee_Jump_V2_2ch_02.wav",
+        "size": 148220,
+        "crc": 101029739,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 31
+          },
+          {
+            "size": 65536,
+            "line": 32
+          },
+          {
+            "size": 17148,
+            "line": 33
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/octane/Melee_Slide_01_V1_2ch_01.wav",
+        "size": 148220,
+        "crc": 2774363109,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 34
+          },
+          {
+            "size": 65536,
+            "line": 35
+          },
+          {
+            "size": 17148,
+            "line": 36
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/octane/Melee_Sprinting_V1_2ch_01.wav",
+        "size": 148220,
+        "crc": 946908364,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 37
+          },
+          {
+            "size": 65536,
+            "line": 38
+          },
+          {
+            "size": 17148,
+            "line": 39
+          }
+        ]
+      },
+      {
+        "path": "sound/weapons/custom_weapon/a15/octane/Melee_Stand_01_V1_2ch_02.wav",
+        "size": 148220,
+        "crc": 290382745,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 40
+          },
+          {
+            "size": 65536,
+            "line": 41
+          },
+          {
+            "size": 17148,
+            "line": 42
+          }
+        ]
+      },
+      {
+        "path": "models/weapons/a15/v_octaneheirloom.ani",
+        "size": 157004,
+        "crc": 2705499322,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 43
+          },
+          {
+            "size": 65536,
+            "line": 44
+          },
+          {
+            "size": 25932,
+            "line": 45
+          }
+        ]
+      },
+      {
+        "path": "models/weapons/a15/v_octaneheirloom.dx90.vtx",
+        "size": 87930,
+        "crc": 3812921354,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 46
+          },
+          {
+            "size": 22394,
+            "line": 47
+          }
+        ]
+      },
+      {
+        "path": "models/weapons/a15/v_octaneheirloom.mdl",
+        "size": 174248,
+        "crc": 4019647716,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 48
+          },
+          {
+            "size": 65536,
+            "line": 49
+          },
+          {
+            "size": 43176,
+            "line": 50
+          }
+        ]
+      },
+      {
+        "path": "models/weapons/a15/v_octaneheirloom.vvd",
+        "size": 336960,
+        "crc": 68598736,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 51
+          },
+          {
+            "size": 65536,
+            "line": 52
+          },
+          {
+            "size": 65536,
+            "line": 53
+          },
+          {
+            "size": 65536,
+            "line": 54
+          },
+          {
+            "size": 65536,
+            "line": 55
+          },
+          {
+            "size": 9280,
+            "line": 56
+          }
+        ]
+      },
+      {
+        "path": "materials/models/a15/octane_heirloom.vmt",
+        "size": 304,
+        "crc": 2442682325,
+        "blocks": [
+          {
+            "size": 304,
+            "line": 57
+          }
+        ]
+      },
+      {
+        "path": "materials/models/a15/octane_heirloom_emissiveTexture.vtf",
+        "size": 1398336,
+        "crc": 1646786448,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 58
+          },
+          {
+            "size": 65536,
+            "line": 59
+          },
+          {
+            "size": 65536,
+            "line": 60
+          },
+          {
+            "size": 65536,
+            "line": 61
+          },
+          {
+            "size": 65536,
+            "line": 62
+          },
+          {
+            "size": 65536,
+            "line": 63
+          },
+          {
+            "size": 65536,
+            "line": 64
+          },
+          {
+            "size": 65536,
+            "line": 65
+          },
+          {
+            "size": 65536,
+            "line": 66
+          },
+          {
+            "size": 65536,
+            "line": 67
+          },
+          {
+            "size": 65536,
+            "line": 68
+          },
+          {
+            "size": 65536,
+            "line": 69
+          },
+          {
+            "size": 65536,
+            "line": 70
+          },
+          {
+            "size": 65536,
+            "line": 71
+          },
+          {
+            "size": 65536,
+            "line": 72
+          },
+          {
+            "size": 65536,
+            "line": 73
+          },
+          {
+            "size": 65536,
+            "line": 74
+          },
+          {
+            "size": 65536,
+            "line": 75
+          },
+          {
+            "size": 65536,
+            "line": 76
+          },
+          {
+            "size": 65536,
+            "line": 77
+          },
+          {
+            "size": 65536,
+            "line": 78
+          },
+          {
+            "size": 22080,
+            "line": 79
+          }
+        ]
+      },
+      {
+        "path": "materials/models/a15/octane_heirloom_glass.vmt",
+        "size": 224,
+        "crc": 1639769870,
+        "blocks": [
+          {
+            "size": 224,
+            "line": 80
+          }
+        ]
+      },
+      {
+        "path": "materials/models/a15/octane_heirloom_glass_albedoTextures.vtf",
+        "size": 131136,
+        "crc": 95879720,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 81
+          },
+          {
+            "size": 65536,
+            "line": 82
+          },
+          {
+            "size": 64,
+            "line": 83
+          }
+        ]
+      },
+      {
+        "path": "materials/models/a15/octane_heirloom_glass_normalTexture.vtf",
+        "size": 174944,
+        "crc": 368453309,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 84
+          },
+          {
+            "size": 65536,
+            "line": 85
+          },
+          {
+            "size": 43872,
+            "line": 86
+          }
+        ]
+      },
+      {
+        "path": "materials/models/a15/octane_heirloom_normalTexture.vtf",
+        "size": 1398336,
+        "crc": 3788870464,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 87
+          },
+          {
+            "size": 65536,
+            "line": 88
+          },
+          {
+            "size": 65536,
+            "line": 89
+          },
+          {
+            "size": 65536,
+            "line": 90
+          },
+          {
+            "size": 65536,
+            "line": 91
+          },
+          {
+            "size": 65536,
+            "line": 92
+          },
+          {
+            "size": 65536,
+            "line": 93
+          },
+          {
+            "size": 65536,
+            "line": 94
+          },
+          {
+            "size": 65536,
+            "line": 95
+          },
+          {
+            "size": 65536,
+            "line": 96
+          },
+          {
+            "size": 65536,
+            "line": 97
+          },
+          {
+            "size": 65536,
+            "line": 98
+          },
+          {
+            "size": 65536,
+            "line": 99
+          },
+          {
+            "size": 65536,
+            "line": 100
+          },
+          {
+            "size": 65536,
+            "line": 101
+          },
+          {
+            "size": 65536,
+            "line": 102
+          },
+          {
+            "size": 65536,
+            "line": 103
+          },
+          {
+            "size": 65536,
+            "line": 104
+          },
+          {
+            "size": 65536,
+            "line": 105
+          },
+          {
+            "size": 65536,
+            "line": 106
+          },
+          {
+            "size": 65536,
+            "line": 107
+          },
+          {
+            "size": 22080,
+            "line": 108
+          }
+        ]
+      },
+      {
+        "path": "materials/models/a15/octane_heirloom_specTextures.vtf",
+        "size": 1398336,
+        "crc": 2872880981,
+        "blocks": [
+          {
+            "size": 65536,
+            "line": 109
+          },
+          {
+            "size": 65536,
+            "line": 110
+          },
+          {
+            "size": 65536,
+            "line": 111
+          },
+          {
+            "size": 65536,
+            "line": 112
+          },
+          {
+            "size": 65536,
+            "line": 113
+          },
+          {
+            "size": 65536,
+            "line": 114
+          },
+          {
+            "size": 65536,
+            "line": 115
+          },
+          {
+            "size": 65536,
+            "line": 116
+          },
+          {
+            "size": 65536,
+            "line": 117
+          },
+          {
+            "size": 65536,
+            "line": 118
+          },
+          {
+            "size": 65536,
+            "line": 119
+          },
+          {
+            "size": 65536,
+            "line": 120
+          },
+          {
+            "size": 65536,
+            "line": 121
+          },
+          {
+            "size": 65536,
+            "line": 122
+          },
+          {
+            "size": 65536,
+            "line": 123
+          },
+          {
+            "size": 65536,
+            "line": 124
+          },
+          {
+            "size": 65536,
+            "line": 125
+          },
+          {
+            "size": 65536,
+            "line": 126
+          },
+          {
+            "size": 65536,
+            "line": 127
+          },
+          {
+            "size": 65536,
+            "line": 128
+          },
+          {
+            "size": 65536,
+            "line": 129
+          },
+          {
+            "size": 22080,
+            "line": 130
+          }
+        ]
+      }
+    ],
+    "pack_size": 4665978
+  }
+}
